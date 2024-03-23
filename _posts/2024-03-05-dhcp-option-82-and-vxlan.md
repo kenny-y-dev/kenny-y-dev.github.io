@@ -3,6 +3,8 @@ title:  "DHCP Option 82 with EVPN-VXLAN"
 layout: post
 ---
 
+![DHCP Discover Packet](/assets/images/2024-03-05-dhcp-option-82-and-vxlan/header-dhcp.png)
+
 With EVPN-VXLAN networks where anycast gateways are utilized, DHCP has some quirks that arise when multiple instances of the same IP are present on a network segment. During a recent design and deployment of one such network, I ran into some additional difficulties with the Windows Server implementation of DHCP in this situation, which we'll go over below. Let's dive in!
 
 

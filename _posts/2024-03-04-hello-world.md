@@ -3,6 +3,7 @@ title: "Hello World!"
 layout: post
 ---
 
+![hello world prompt](/assets/images/2024-03-04-hello-world/hello-world-image.png)
 Here we go! The obligatory Hello World post for the blog.
 
 
