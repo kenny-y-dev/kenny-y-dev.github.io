@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-Hi, my name is Kenny! I post about things in tech that I've found useful when solving problems or learning something new.
+Hi, my name is Kenny! I post about things in tech that I've found useful when solving problems or learning something new. Please feel free to reach out at [kenny.y.dev@gmail.com](mailto:kenny.y.dev@gmail.com).
 
 When I'm not working with tech, I enjoy bird watching, native plant landscaping, food, and art.
 
